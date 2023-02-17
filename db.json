@@ -1,0 +1,14 @@
+{
+  "todos": [
+    {
+      "id": 0,
+      "title": "Feed the dino",
+      "category": "home"
+    },
+    {
+      "id": 1,
+      "title": "Buy some F-35",
+      "category": "work"
+    }
+  ]
+}
