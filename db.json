@@ -12,22 +12,3 @@
     }
   ]
 }
-
-// chmura303@chmura303-ThinkPad-T480 ~/Projects/todo-api
-// % json-server --watch db.json
-
-// \{^_^}/ hi!
-
-// Loading db.json
-// Done
-
-// Resources
-// http://localhost:3000/todos
-
-// Home
-// http://localhost:3000
-
-// Type s + enter at any time to create a snapshot of the database
-// Watching...
-
-// GET /todos 200 12.715 ms - 152
